@@ -25,6 +25,9 @@ APIs & REST APIs fundamentals
 Creating Notes APIs & testing with Postman
 
 Today (28 feb 2026) till now i have studied that REST Api pdf.
+
+lets do these thinks today
+
 i have to complete 2 more ours in that video plus want to download and install that mongoDB , and that cluster
 and also update all of that code that i learned till today , on github to make that streak and revise once again .
 
