@@ -30,6 +30,7 @@ lets do these thinks today
 
 i have to complete 2 more ours in that video plus want to download and install that mongoDB , and that cluster
 and also update all of that code that i learned till today , on github to make that streak and revise once again .
+every  things are done
 
 
 
