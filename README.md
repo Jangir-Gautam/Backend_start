@@ -34,3 +34,6 @@ every  things are done
 
 done with 3 hours and run properly
 
+lemme update a project on git hub 
+
+
