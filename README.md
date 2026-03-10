@@ -32,6 +32,8 @@ i have to complete 2 more ours in that video plus want to download and install t
 and also update all of that code that i learned till today , on github to make that streak and revise once again .
 every  things are done
 
+almost done 
+
 done with 3 hours and run properly
 
 lemme update a project on git hub 
