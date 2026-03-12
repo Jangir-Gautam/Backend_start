@@ -37,5 +37,6 @@ almost done
 done with 3 hours and run properly
 
 lemme update a project on git hub 
+yt video : https://youtu.be/0IciwnJ6PJI?si=2ol4Sd_fERG4oLhC
 
 
